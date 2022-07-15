@@ -1,0 +1,13 @@
+{
+  "basic": {
+    "cpu": "Snapdragon 675",
+    "battery": "4000mAh",
+    "camera": "48MP+5MP",
+    "screen": "6.3″ IPS LCD",
+    "resolution": "2340×1080"
+  },
+  "camera": {
+    "front_camera": "13MP",
+    "rear_camera": "48MP+5MP"
+  }
+}
